@@ -2,30 +2,30 @@
 This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. The player chooses between Rock, Paper, or Scissors and plays against the computer.
 
 📌 Features
-Interactive UI
+1.Interactive UI
 
-Random computer choice
+2.Random computer choice
 
-Win, lose, and draw logic
+3.Win, lose, and draw logic
 
-Scoreboard for player and computer
+4.Scoreboard for player and computer
 
-Responsive design
+5.Responsive design
 
 🛠️ Technologies Used
-HTML5
+1.HTML5
 
-CSS3
+2.CSS3
 
-JavaScript (Vanilla)
+3.JavaScript (Vanilla)
 
 🖥️ How to Play
-Open the game in your browser.
+1.Open the game in your browser.
 
-Click on Rock, Paper, or Scissors.
+2.Click on Rock, Paper, or Scissors.
 
-The computer randomly picks its move.
+3.The computer randomly picks its move.
 
-The result is shown with an updated score.
+4.The result is shown with an updated score.
 
 
